@@ -1,0 +1,17 @@
+My implementation of a simple assembler for the Basic Computer architecture.
+The program:
+
+Reads instructions from Program.txt
+
+Validates formatting and hexadecimal correctness
+
+Converts symbolic instructions into machine code
+
+Supports all 25 Basic Computer instructions
+
+Prints both binary (16-bit) and hexadecimal outputs
+
+Includes error handling for invalid commands, missing addresses, and wrong formats
+
+The project is structured with multiple classes (Basic_Computer, Code_Decode, FileRead, Look_Error) for clean and modular design.
+Execution entry point: _23010310067_Yunus_Taskesen.java
